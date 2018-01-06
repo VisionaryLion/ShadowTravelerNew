@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/SFSoftShadows/SFSoftShadowDemos/CaveScene.unity
+- path: Assets/Main/Scenes/ProofOfConcept/Scenes/TheCave.unity
   isLoaded: 1
   isActive: 1
